@@ -6,13 +6,13 @@
 ##
 
 
-<div align="center">
-  <a href="https://github.com/Joaovicente985">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovicente985&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovicente985&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-</br>
+<p align="center">
+  <a href="https://github.com/Joaovicente985/">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaovicente985&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+  
+##
   
 <div style="display: inline_block" align="center"><br>
   <a href="https://skillicons.dev">
