@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vicente 👋
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando desenvolvimento full-stack pela Kenzie Academy
+- 🌱 Sou formado desenvolvimento full-stack pela Kenzie Academy
 
 ##
 
